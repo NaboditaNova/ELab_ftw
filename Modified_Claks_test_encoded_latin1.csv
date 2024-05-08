@@ -1,0 +1,561 @@
+CAS-Number,Container Name,Title,Location,Inventory-ID,Structure formula,Manufacturer,Purity
+108-88-3,Toluol,Toluol,3201/275,21-523-0138-7,C7 H8,Sigma-Aldrich 244511,"anhydrous, 99.8%"
+75-05-8,Acetonitril,Acetonitril,3201/275,21-523-0014-4,C2 H3 N1,Alfa Aesar 19862,
+50-00-0,Formaldehyd-Lösung >= 25%,Formaldehyd -Lösung,3201/275,22-523-0001-3,,Sigma-Aldrich 252549,"ACS reagent, 37 wt. % in H2O"
+14808-60-7,Quarz,Quarz,3201/275,20-523-0082-4,O2 Si1, Unknown,
+14808-60-7,Quarz,Quarzwolle SiO2,3201/275,20-523-0094-7,O2 Si1, Unknown,
+14808-60-7,Quarz,Quarz feinkörnig gewaschen und geglüht,3201/275,20-523-0107-4,O2 Si1, Unknown,
+7761-88-8,Silbernitrat,Ag(NO3)2 solution,3201/275,20-523-0066-4,Ag1 N1 O3, Unknown,Silbernitrat Lösung
+7761-88-8,Silbernitrat,Silbernitrat,3201/275,21-523-0007-6,Ag1 N1 O3,Roth 7908.1,
+7761-88-8,Silbernitrat,Silbernitrat,3201/275,21-523-0008-3,Ag1 N1 O3,Alfa Aesar A13854.22,
+7761-88-8,Silbernitrat,Silbernitrat,3201/275,21-523-0171-4,Ag1 N1 O3,Merck,
+1306-38-3,Cer(IV)-oxid,Cer(IV)-oxid,3201/275,21-523-0043-4,Ce1 O2, Unknown,
+308080-99-1,Molekularsieb 3Å gekörnt,Molekularsieb 3A,3201/275,20-523-0053-4,, Unknown,
+-,Molekularsieb Dehydrat,Molekularsieb,3201/275,20-523-0043-5,, Unknown,
+7447-40-7,Kaliumchlorid,Kaliumchlorid,3201/275,20-523-0044-2,Cl1 K1, Unknown,
+64-17-5,Ethanol vergällt,Ethanol vergällt,3201/275,21-523-0106-6,C2 H6 O1,Roth T171.3,
+1336-21-6,Ammoniak >= 25%,Ammonia solution 25%,3201/275,20-523-0069-5,H1 N1 O1 (unspec.), Unknown,
+1336-21-6,Ammoniak >= 25%,Ammonia solution 25%,3201/275,20-523-0073-2,H1 N1 O1 (unspec.), Unknown,
+1310-73-2,Natriumhydroxid (fest),SODIUM HYDROXIDE,3201/275,21-523-0133-2,H1 Na1 O1,Sigma-Aldrich S5881-1kg,"REAGENT GRADE, >=98%"
+1310-58-3,Kaliumhydroxid (fest),Kaliumhydroxid (fest),3201/275,21-523-0155-4,H1 K1 O1,ALDRICH,
+7647-01-0,Salzsäure >= 25%,Hydrochlorid acid 37%,3201/275,20-523-0074-9,Cl1 H1 O1 (unspec.), Unknown,
+7647-01-0,Salzsäure >= 25%,Hydrochloric acid 37%,3201/275,23-523-0003-6,Cl1 H1 O1 (unspec.), Unknown,
+10035-10-6,Bromwasserstoffsäure >= 40%,Hydrobromic acid 48%,3201/275,20-523-0175-3,,Alfa Aesar 014036.AT,
+10035-10-6,Bromwasserstoffsäure >= 40%,Hydrobromic acid,3201/275,21-523-0020-5,,Alfa Aesar 14036,48%
+10034-85-2,Iodwasserstoffsäure >= 25%,Hydriodic acid,3201/275,21-523-0013-7,,ALDRICH 36484-500G,ACS 55-58%
+7664-93-9,Schwefelsäure >= 15%,Schwefelsäure 96 %,3201/275,21-523-0179-0,H2 O4 S1,CarlRoth 0971.1,1 Kunststoff
+7697-37-2,Salpetersäure 20-64%,Salpetric acid 60%,3201/275,20-523-0075-6,, Unknown,"Salpetersäure 60 %, rein"
+7440-50-8,Raney-Kupfer,"Copper Turnings 99,9% Cu",3201/222 Labor,21-523-0049-6,Cu1, Unknown,
+7440-57-5,Gold,Gold wire 1mm,3201/114,22-523-0015-0,Au1, Unknown,With marc
+7440-65-5,Yttrium,"Yttrium ingot, 99,9%",3201/222 Labor,21-523-0098-4,Y1, Unknown,
+7440-65-5,Yttrium,Yttrium powder,3201 Labor 115 Glovebox,24-523-0002-8,Y1, Unknown,~40 mesh
+7439-91-0,Lanthan,Lanthanum powder,3201 Labor 115 Glovebox,24-523-0001-1,La1, Unknown,"~40 mesh, 99,7%"
+7440-19-9,Samarium,Samarium dendritic,3201/275,21-523-0128-8,Sm1,Alfa Aesar,
+7440-19-9,Samarium,,,21-523-0129-5,Sm1, Own filling,
+7440-19-9,Samarium-Pulver,Samarium powder,3201/275,21-523-0130-1,Sm1,Alfa Aesar,
+7440-52-0,Erbium,"Erbium 99,9%",3201/222 Labor,21-523-0058-8,Er1, Unknown,
+7440-55-3,Gallium,"Gallium 99,9999%",3201/222 Labor,21-523-0060-1,Ga1, Unknown,Pellets 2 Gebinde vorhanden
+7440-74-6,Indium,"Indium Shot 99,99%",3201/222 Labor,21-523-0064-9,In1, Unknown,
+7440-74-6,Indium,"Indium pieces 99,99%",3201/222 Labor,21-523-0065-6,In1, Unknown,
+7440-74-6,Indium-Standardlösung 1000 mg/l In (In(NO3)3 in HNO3),In(NO3) solution,3201/275,20-523-0060-2,In1 (unspec.), Unknown,
+7440-58-6,Hafnium,Hafnium flakes,3201/222 Labor,23-523-0009-8,Hf1, Unknown,"ungenaue mengenangabe, konzentration"
+7440-58-6,Hafnium,"Hafnium pieces 99,8%",3201/222 Labor,23-523-0010-4,Hf1, Unknown,ungenaue mengenangabe
+7440-62-2,Vanadium,"Vanadium Turnings 99,7%",3201/222 Labor,21-523-0095-3,V1, Unknown,3 Gebinde vorhanden
+7440-62-2,Vanadium,"Vanadium granules 99,7%",3201/222 Labor,21-523-0096-0,V1, Unknown,
+7440-62-2,Vanadium,Vanadium,3201/222 Labor,21-523-0097-7,V1, Unknown,"Metal 99,9%"
+7440-62-2,Vanadium,Vanadium foil,3201/222 Labor,21-523-0184-4,V1, Unknown,eine Folie vorhanden
+7440-03-1,Niob,"Niobium Wire 99,9%",3201/222 Labor,21-523-0111-0,Nb1, Unknown,
+7440-03-1,Niob,"Niobium granules 99,9%",3201/222 Labor,21-523-0112-7,Nb1, Unknown,
+7440-03-1,Niob,Niob,3201/275,21-523-0172-1,Nb1,GoodFellow,Granulat
+7440-03-1,Niob-Pulver,"Niob 99,9%",3201/222 Labor,21-523-0101-1,Nb1, Unknown,
+7440-25-7,Tantal,"Tantalum wire 0,25mm, annealed, 99,9%",3201/275,20-523-0085-5,Ta1, Unknown,
+7440-25-7,Tantal,Tantalum slug,3201/222 Labor,21-523-0185-1,Ta1, Unknown,
+7440-25-7,Tantal,"Tantalum foil 99,9%",3201/222 Labor,23-523-0005-0,Ta1, Unknown,
+7440-25-7,Tantal,Tantal pulver <325 mesh,3201/222 Labor,23-523-0019-7,Ta1,ALDRICH 262846-25G,
+7440-25-7,Tantal-Pulver,Tantalum,3201/222 Labor,21-523-0094-6,Ta1, Unknown,"Slug 99,95%/piece99,9%"
+7440-25-7,Tantal-Pulver,Tantalum powder >45 micrometer,3201/222 Labor,23-523-0035-7,Ta1, Unknown,powder
+7440-47-3,Chrom-Pulver,Chrom-Pulver,3201/222 Labor,21-523-0050-2,Cr1, Unknown,
+7439-98-7,Molybdän-Pulver,Molybdenum powder 2-5 micron,3201/222 Labor,24-523-0005-9,Mo1, Unknown,
+7440-56-4,Germanium,"Germanium 99,999%",3201/222 Labor,21-523-0059-5,Ge1, Unknown,
+7440-31-5,Zinn,"Zinn Pulver 99,8%",3201/222 Labor,21-523-0085-4,Sn1, Unknown,Tin powder
+7440-31-5,Zinn,"Zinn Granulate/Tin granules 99,99%",3201/222 Labor,21-523-0086-1,Sn1, Unknown,3 Gebinde vorhanden
+7440-31-5,Zinn,"Tin shot, 3mm, 99,999%",3201/222 Labor,21-523-0090-8,Sn1, Unknown,
+7440-31-5,Zinn,"Tin powder, 100mesh, 99,995%",3201/222 Labor,21-523-0091-5,Sn1, Unknown,
+7440-31-5,Zinn,Tin powder < 100 micron,3201 Labor 115 Glovebox,23-523-0020-3,Sn1, Unknown,
+7439-92-1,Blei-Standardlösung 10000 mg/l Pb in HNO3,Blei Pb,3201/222 Labor,21-523-0075-5,Pb1 (unspec.), Unknown,
+7440-36-0,Antimon,"Antimony pieces 99,999%",3201/222 Labor,21-523-0040-3,Sb1, Unknown,
+7440-36-0,Antimon,"Antimony Shot 99,999%",3201/222 Labor,21-523-0057-1,Sb1, Unknown,
+7440-36-0,Antimon-Pulver,Antimon gepulvert Sb,3201/222 Labor,21-523-0041-0,Sb1, Unknown,
+7440-69-9,Bismut,"Bismuth pieces/99,999%",3201/222 Labor,22-523-0010-5,Bi1, Unknown,
+7440-69-9,Bismut-Pulver,Bismut,3201/275,21-523-0047-2,Bi1, Unknown,
+7440-69-9,Bismut-Pulver,"Bismuth powder 99,998%",3201/222 Labor,21-523-0042-7,Bi1, Unknown,
+7782-49-2,Selen,"Selenium shot 99,999%",3201/222 Labor,21-523-0079-3,Se1, Unknown,"1kg/250g Gebinde vorhanden (1kg 275, 250g 222)"
+7782-49-2,Selen,Selenium,3201/275,21-523-0132-5,Se1,Alfa Aesar,
+7782-49-2,Selen,Selen,3201/275,21-523-0178-3,Se1,Sigma-Aldrich 209651,"powder, -100 mesh, ³€99.5% trace metals basis"
+7440-21-3,Silicium (massiv),"Silicium granular 99,999%",3201/222 Labor,21-523-0081-6,Si1, Unknown,
+7440-21-3,Silicium (massiv),Silicon Pieces,3201/222 Labor,22-523-0007-5,Si1,Chempur 009384,
+7440-21-3,Silicium-Pulver,"Silicium-Pulver 99,7%",3201/222 Labor,21-523-0080-9,Si1, Unknown,2*100g/250g Gebinde vorhanden
+13494-80-9,Tellur,"Tellurium lump 99,999",3201/222 Labor,21-523-0083-0,Te1, Unknown,2 pieces
+13494-80-9,Tellur,"Tellurium lump 99,999%",3201/222 Labor,21-523-0093-9,Te1, Unknown,
+13494-80-9,Tellur,Tellurium pieces,3201/222 Labor,22-523-0008-2,Te1,Chempur 009440,4 Gebinde vorhanden
+7704-34-9,Schwefel,"Sulfur powder 99,95%",3201/222 Labor,21-523-0078-6,S1, Unknown,
+7440-66-6,Zinkpulver (nicht stabilisiert),"Zinc shot 99,999%",3201/222 Labor,21-523-0084-7,Zn1, Unknown,
+7440-67-7,Zirconium,"Zirconium granules 99,8%",3201/222 Labor,23-523-0004-3,Zr1, Unknown,
+7440-67-7,Zirconium,Zirconium foil,3201/222 Labor,23-523-0007-4,Zr1, Unknown,ungenaue mengenangabe
+7440-67-7,Zirconium,Zirconium powder,3201 Labor 115 Glovebox,23-523-0022-7,Zr1,Sigma Aldrich Chemie GmbH,"100 mesh, 1:10 pentanol to water as stabilizer"
+7440-67-7,Zirkoniumpulver (nicht stabilisiert),"Zirconium lump 99,8%",3201/222 Labor,21-523-0099-1,Zr1, Unknown,
+7440-67-7,Zirkoniumpulver (nicht stabilisiert),"Zirconium sponge 99,8%",3201/222 Labor,21-523-0100-4,Zr1, Unknown,
+7429-90-5,Aluminium,"Aluminium granules 99,99%",3201/222 Labor,21-523-0036-6,Al1, Unknown,
+7429-90-5,Aluminium,Aluminium Granulat,3201/275,21-523-0148-6,Al1,GoodFellow,
+7429-90-5,Aluminiumpulver (entzündlich),Aluminium powder,3201/222 Labor,21-523-0038-0,Al1, Unknown,Mengenangabe fehlt!
+7439-95-4,Magnesiumpulver (pyrophor),Magnesium,3201/275,20-523-0032-9,Mg1, Unknown,
+7439-95-4,Magnesiumpulver (pyrophor),"Magnesiumpulver 99,8%",3201/222 Labor,21-523-0066-3,Mg1, Unknown,
+7439-95-4,Magnesiumpulver (pyrophor),Magnesium powder,3201/275,21-523-0124-0,Mg1,Alfa Aesar,
+7439-95-4,Magnesium (phlegmatisiert),"Magnesium Turnings 99,98%",3201/222 Labor,21-523-0067-0,Mg1, Unknown,
+7439-95-4,Magnesium-Standardlösung 1000 mg/l Mg (Mg(NO3)2 in HNO3),Mg(NO3)2 solution,3201/275,20-523-0067-1,Mg1 (unspec.), Unknown,
+7439-96-5,Mangan,"Manganese Pieces 99,9%",3201/222 Labor,21-523-0068-7,Mn1, Unknown,
+7439-96-5,Mangan,Manganese Pieces,3201/222 Labor,23-523-0027-2,Mn1, Unknown,
+7439-96-5,Mangan,Manganese Powder <60 mesh,3201/222 Labor,23-523-0028-9,Mn1, Unknown,
+7439-89-6,Eisen,Iron flakes,3201/222 Labor,23-523-0008-1,Fe1, Unknown,ungenaue mengenangabe
+7439-89-6,Eisen-Pulver,"Eisen 99,97%",3201/222 Labor,21-523-0061-8,Fe1, Unknown,4 Pieces
+7439-89-6,Eisen-Pulver,Eisen-Pulver,3201/222 Labor,21-523-0062-5,Fe1, Unknown,
+7439-89-6,Eisen-Pulver,"Eisen 99,9%",3201/222 Labor,21-523-0063-2,Fe1, Unknown,pieces
+7439-89-6,Eisen-Pulver,iron powder ex carbonyl,3201/222 Labor,22-523-0002-0,Fe1,Chempur 009203,"<10um 99,5%"
+7440-02-0,Nickel,Nickel powder,3201/275,20-523-0111-1,Ni1, Unknown,
+7440-02-0,Nickel,"Nickel foil 0,25mm thick annealed 99,5%",3201/275,20-523-0132-6,Ni1, Unknown,
+7440-02-0,Nickel,"Nickel Wire 99,98%",3201/222 Labor,21-523-0069-4,Ni1, Unknown,10m
+7440-02-0,Nickel,"Nickel Slug 99,995%",3201/222 Labor,21-523-0070-0,Ni1, Unknown,"6,35mm 25slug"
+7440-02-0,Nickel,Nickel powder 100mesh,3201/222 Labor,22-523-0003-7,Ni1,Chempur 009285,"99,99%"
+7440-02-0,Nickelpulver,"Nickel Slug 99,995%",3201/222 Labor,21-523-0071-7,Ni1, Unknown,"3,175mm"
+7440-02-0,Nickelpulver,"Nickel shot 99,95%",3201/222 Labor,21-523-0072-4,Ni1, Unknown,
+7440-02-0,Nickelpulver,Nickelpulver,3201/222 Labor,21-523-0073-1,Ni1, Unknown,
+7440-06-4,Platin-Pulver,"Platin-Pulver 99,95%",3201/222 Labor,21-523-0076-2,Pt1, Unknown,
+7440-15-5,Rhenium,Rhenium Powder <10 micron,3201/222 Labor,23-523-0026-5,Re1, Unknown,
+7440-23-5,Natrium,Natriumborahydrate,3201/275,20-523-0011-4,Na1, Unknown,
+7440-23-5,Natrium,Natriummolybdat,3201/275,20-523-0013-8,Na1, Unknown,
+7440-09-7,Kalium,Kaliummolybdat,3201/275,20-523-0034-3,K1, Unknown,K2HPO4
+7440-70-2,Calcium,Calcium 99%,3201/222 Labor,21-523-0051-9,Ca1, Unknown,
+7440-24-6,Strontium,Strontium granules,3201/275,21-523-0131-8,Sr1,Alfa Aesar,
+7440-24-6,Strontium-Standardlösung 1000 mg/l Sr (Sr(NO3)2),Sr(NO3)2 solution,3201/275,20-523-0065-7,, Unknown,Strontium-Standardlösung
+7440-39-3,Barium,Barium,3201/222 Labor,23-523-0001-2,Ba1, Unknown,
+7440-42-8,Bor-Standardlösung 1000 mg/l B,Boron pieces,3201/222 Labor,21-523-0044-1,, Unknown,
+7440-42-8,Bor-Standardlösung 1000 mg/l B,Boron powder,3201/222 Labor,21-523-0045-8,, Unknown,
+7440-42-8,Bor-Standardlösung 1000 mg/l B,Boron 95%,3201/222 Labor,21-523-0195-0,, Unknown,
+1333-82-0,Chromtrioxid,Chrom(III)--oxid,3201/275,23-523-0015-9,Cr1 O3, Unknown,"ungenaue mengenangabe, konzentration"
+7440-48-4,Cobalt,Cobalt Powder 99%,3201/222 Labor,21-523-0052-6,Co1, Unknown,500g/250g Gebinde vorhanden
+7440-48-4,Cobalt,"Cobalt Powder 99,8%",3201/275,21-523-0053-3,Co1, Unknown,mehrere Gebindevorhanden
+7440-48-4,Cobalt,"Cobalt Slug 99,5%",3201/222 Labor,21-523-0054-0,Co1, Unknown,
+7440-48-4,Cobalt,"Cobalt Powder 99,9%",3201/222 Labor,21-523-0055-7,Co1, Unknown,
+7440-48-4,Cobalt,"Cobalt 99,998%",3201/222 Labor,21-523-0056-4,Co1, Unknown,
+7440-48-4,Cobalt,"Cobalt flake 99,9%",3201/222 Labor,21-523-0102-8,Co1, Unknown,"Cobalt rod 99,95%"
+7440-48-4,Cobalt,Cobalt Pieces,3201/222 Labor,21-523-0174-5,Co1,Alfa Aesar 10454.22,
+7440-48-4,Cobalt-Pulver,Cobalt-Pulver,3201/275,21-523-0048-9,Co1, Unknown,
+7440-48-4,Cobalt-Pulver,Cobalt-Pulver,3201/275,21-523-0196-7,Co1, Unknown,325 mesh
+7440-20-2,Scandium,Scandium,3201/222 Labor,21-523-0077-9,Sc1, Unknown,Keine Mengenangabe!
+7440-32-6,Titan,Titanium flakes,3201/222 Labor,23-523-0006-7,Ti1, Unknown,
+7440-32-6,Titan-Pulver,"Titanium wire 99,8%",3201/222 Labor,21-523-0082-3,, Unknown,25m
+7440-32-6,Titan-Pulver,Titan-Pulver,3201/222 Labor,21-523-0087-8,, Unknown,
+7440-32-6,Titan-Pulver,"Titanium granules 99,99%",3201/222 Labor,21-523-0088-5,, Unknown,2 Gebinde vorhanden
+7440-32-6,Titan-Pulver,"Titan-Pulver 99,98%",3201/222 Labor,21-523-0089-2,, Unknown,
+62-76-0,Natriumoxalat,Natriumoxalat,3201/275,20-523-0027-5,C2 Na2 O4, Unknown,
+62-76-0,Natriumoxalat,Natriumoxalat,3201/275,20-523-0035-0,C2 Na2 O4, Unknown,
+7647-14-5,Natriumchlorid,Natriumchlorid,3201/275,20-523-0006-0,Cl1 Na1, Unknown,
+7647-14-5,Natriumchlorid,Sodium chloride,3201/275,21-523-0163-9,Cl1 Na1,Alfa Aesar 87605,
+151-21-3,Dodecylnatriumsulfat,Sodium dodecyl sulfate,3201/275,21-523-0011-3,C12 H25 Na1 O4 S1,Riedel-de Haen 62562,Natriumlaurylsulfat
+4432-31-9,"MES-Pufferlösung pH 5,5","MES, minimum 99%",3201/275,21-523-0002-1,,SIGMA M3671,"pH 5,5 - 6,7"
+13463-67-7,Titandioxid,"Titanium (IV) oxide 99,99%",3201/275,20-523-0157-9,O2 Ti1, Unknown,2 Gebinde vorhanden! (125g/250g)
+13463-67-7,Titandioxid,Titandioxid,3201/275,21-523-0127-1,O2 Ti1, Unknown,Ti=2
+6147-53-1,Cobalt(II)acetat-Tetrahydrat,Cobalt(II)acetat-Tetrahydrat,3201/275,21-523-0197-4,C4 H14 Co1 O8, Unknown,500g/250g/100g Gebinde vorhanden
+6147-53-1,Cobalt(II)acetat-Tetrahydrat,,,21-523-0198-1,C4 H14 Co1 O8, Own filling,
+6147-53-1,Cobalt(II)acetat-Tetrahydrat,Cobalt(II)acetat-Tetrahydrat,3201/275,21-523-0199-8,C4 H14 Co1 O8, Unknown,2 Gebinde vorhanden
+6147-53-1,Cobalt(II)acetat-Tetrahydrat,Cobalt(II)acetat-Tetrahydrat,3201/275,21-523-0200-1,C4 H14 Co1 O8, Unknown,
+10026-22-9,Cobalt(II)nitrat-Hexahydrat,"Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%",3201/275,20-523-0180-7,Co1 H12 N2 O12,Alfa Aesar 036418.36,
+10026-22-9,Cobalt(II)nitrat-Hexahydrat,Cobalt(II)nitrat-Hexahydrat,3201/275,21-523-0032-8,Co1 H12 N2 O12, Unknown,
+10026-22-9,Cobalt(II)nitrat-Hexahydrat,Cobalt(II)nitrat-Hexahydrat,3201/275,21-523-0034-2,Co1 H12 N2 O12, Unknown,
+10026-22-9,Cobalt(II)nitrat-Hexahydrat,Cobalt(II)nitrat-Hexahydrat,3201/275,21-523-0092-2,Co1 H12 N2 O12, Unknown,
+10026-22-9,Cobalt(II)nitrat-Hexahydrat,Cobalt(II)nitrat-Hexahydrat,3201/275,21-523-0201-8,Co1 H12 N2 O12, Unknown,
+10026-22-9,Cobalt(II)nitrat-Hexahydrat,Cobalt(II)nitrat-Hexahydrat,3201/275,21-523-0202-5,Co1 H12 N2 O12, Unknown,
+10026-24-1,Cobalt(II)sulfat-Heptahydrat,Cobalt(II)sulfat-Heptahydrat,3201/275,21-523-0203-2,Co1 H14 O11 S1, Unknown,
+10026-24-1,Cobalt(II)sulfat-Heptahydrat,Cobalt(II)sulfat-Heptahydrat,3201/275,21-523-0204-9,Co1 H14 O11 S1, Unknown,
+141-43-5,2-Aminoethanol,Ethanolamin,3201/275,22-523-0012-9,C2 H7 N1 O1, Unknown,
+141-43-5,2-Aminoethanol,Ethanolamine,3201/275,23-523-0016-6,C2 H7 N1 O1, Unknown,
+471-34-1,Calciumcarbonat,Calciumcarbonat,3201/276,21-523-0029-8,C1 Ca1 O3,Merck A11799703,gefällt
+471-34-1,Calciumcarbonat,Calciumcarbonat,3201/275,21-523-0176-9,C1 Ca1 O3,Sigma-Aldrich 239216,"ACS reagent, ³€99.0%, powder"
+1303-86-2,Dibortrioxid,Boron oxide,3201/275,21-523-0151-6,B2 O3,Alfa Aesar 089964,
+7758-09-0,Kaliumnitrit,Kaliumnitrit,3201/275,20-523-0041-1,K1 N1 O2, Unknown,
+7681-49-4,Natriumfluorid,Natriumfluorid,3201/275,20-523-0017-6,F1 Na1, Unknown,
+7681-49-4,Natriumfluorid,Natriumfluorid,3201/275,20-523-0018-3,F1 Na1, Unknown,
+7681-49-4,Natriumfluorid,Natriumfluoride,3201/275,20-523-0029-9,F1 Na1, Unknown,
+12125-01-8,Ammoniumfluorid,Ammoniumfluorid,3201/275,21-523-0025-0,F1 H4 N1, Unknown,
+497-19-8,Natriumcarbonat,Natriumcarbonat,3201/275,20-523-0002-2,C1 Na2 O3, Unknown,
+10043-52-4,Calciumchlorid,Calciumchlorid,3201/275,21-523-0205-6,Ca1 Cl2, Unknown,
+7774-34-7,Calciumchlorid-Hexahydrat,Calciumchlorid-Hexahydrat,3201/275,21-523-0206-3,Ca1 Cl2 H12 O6, Unknown,
+1314-62-1,Divanadiumpentaoxid,Vanadium(V)-oxid,3201/275,22-523-0009-9,O5 V2, Unknown,
+13765-19-0,Calciumchromat,Calciumchromat,3201/275,21-523-0207-0,Ca1 Cr1 O4, Unknown,
+1313-13-9,Mangandioxid,Mangan(IV)oxid,3201/275,20-523-0047-3,Mn1 O2, Unknown,
+10034-96-5,Mangan(II)-sulfat-Monohydrat,Manganese(II)sulfate monohydrate,3201/275,20-523-0057-2,H2 Mn1 O5 S1, Unknown,
+7791-13-1,Cobalt(II)-chlorid-Hexahydrat,Cobalt(II)-chlorid-Hexahydrat,3201/275,22-523-0011-2,Cl2 Co1 H12 O6, Unknown,
+11099-02-8,Nickeloxid,Nickeloxid,3201/275,20-523-0091-6,Ni1 O1 (unspec.), Unknown,
+10101-97-0,Nickel(II)-sulfat-Hexahydrat,Nickel/II) Sulfat Hexahydrat 99% NiSO4 6H2O,3201/275,20-523-0088-6,H12 Ni1 O10 S1, Unknown,
+7718-54-9,Nickel(II)-chlorid,Nickel(II)chlorid kristt. reinst NiCl2 6H2O,3201/275,20-523-0089-3,Cl2 Ni1, Unknown,
+7791-20-0,Nickel(II)-chlorid-Hexahydrat,Nickel(II)chlorid Hexahydrat NiCl2 6H2O,3201/275,20-523-0108-1,Cl2 H12 Ni1 O6, Unknown,
+13478-00-7,Nickelnitrat Hexahydrat,"Nickel (II) nitrate hexahydrate puratronic 99,9985% Ni(NO3)2 6H2O",3201/275,20-523-0112-8,H12 N2 Ni1 O12, Unknown,
+13478-00-7,Nickelnitrat Hexahydrat,Nickelnitrat Hexahydrat,3201/275,21-523-0175-2,H12 N2 Ni1 O12,Alfa Aesar A15540,
+13478-00-7,Nickelnitrat Hexahydrat,"Nickel(II) nitrate hexahydrate, 98%",3201/275,23-523-0023-4,H12 N2 Ni1 O12, Unknown,
+6018-89-9,Nickel(II)-acetat-Tetrahydrat,Nickel(II)-acetat-Tetrahydrat,3201/275,21-523-0173-8,C4 H14 Ni1 O8,ALDRICH 244066-100G,
+12035-64-2,Dinickelphosphid,"Nickelphosphide 99,5%",3201/222 Labor,21-523-0074-8,Ni2 P1, Unknown,
+7758-99-8,Kupfer(II)-sulfat-Pentahydrat,Kupfer(II)-sulfat-Pentahydra,3201/275,21-523-0208-7,Cu1 H10 O9 S1, Unknown,
+7646-85-7,Zinkchlorid,Zinkchlorid 98% A.C.S.Reagenz,3201/275,20-523-0138-8,Cl2 Zn1, Unknown,
+7646-85-7,Zinkchlorid,"Zinc chloride anhydrous powder 99,995%",3201/275,20-523-0144-9,Cl2 Zn1, Unknown,
+7446-20-0,Zinksulfat Heptahydrat,Zinc sulfate heptahydrate 99%,3201/275,20-523-0104-3,H14 O11 S1 Zn1, Unknown,
+1314-13-2,Zinkoxid,"Zinc oxide 99,99% ZnO powder",3201/275,20-523-0110-4,O1 Zn1, Unknown,
+1314-13-2,Zinkoxid,"ZnO 99,0%",3201/275,20-523-0130-2,O1 Zn1, Unknown,3 Gebinde zu 2000g/250g/100g vorhanden
+1314-13-2,Zinkoxid,Zinc oxide,3201/275,21-523-0192-9,O1 Zn1,Alfa Aesar 87812,"99,99% metals basis powder"
+10102-18-8,Dinatriumselenit wasserfrei,Natriumselenite,3201/275,20-523-0023-7,Na2 O3 Se1, Unknown,
+26970-82-1,Natriumselenit-Pentahydrat,Natriumselenit,3201/275,20-523-0030-5,H10 Na2 O8 Se1, Unknown,
+1313-27-5,Molybdän(VI)-oxid,Molybdän(VI)oxid,3201/275,20-523-0054-1,Mo1 O3, Unknown,
+1313-27-5,Molybdän(VI)-oxid,Molybdän(VI)oxid,3201/275,20-523-0055-8,Mo1 O3, Unknown,zwei Gebinde vorhanden!
+1309-64-4,Antimon(III)-oxid,Antimon(III)-oxid,3201/275,21-523-0005-2,O3 Sb2, Unknown,weiß
+1309-64-4,Antimon(III)-oxid,Antimon(III)-oxid,3201/275,21-523-0024-3,O3 Sb2, Unknown,
+7787-32-8,Bariumdifluorid,Bariumdifluorid,3201/275,21-523-0209-4,Ba1 F2, Unknown,
+543-80-6,Bariumdiacetat,Bariumdiacetat,3201/275,21-523-0210-0,C4 H6 Ba1 O4, Unknown,
+10022-31-8,Bariumdinitrat,Bariumdinitrat,3201/275,21-523-0023-6,Ba1 N2 O6, Unknown,
+10022-31-8,Bariumdinitrat,Bariumdinitrat,3201/275,21-523-0026-7,Ba1 N2 O6, Unknown,
+10022-31-8,Bariumdinitrat,Barium nitrate,3201/275,24-523-0003-5,Ba1 N2 O6, Unknown,
+513-77-9,Bariumcarbonat,Bariumcarbonat,3201/275,21-523-0123-3,C1 Ba1 O3, Unknown,BaCO3
+10101-63-0,Blei(II)-iodid,Blei(II)-iodid,3201/275,21-523-0009-0,I2 Pb1, Unknown,2 Gebinde vorhanden
+1317-36-8,Blei(II)-oxid,Blei(II)-oxid,3201/275,21-523-0006-9,O1 Pb1, Unknown,
+1317-36-8,Blei(II)-oxid,Blei(II)-oxid,3201/275,21-523-0212-4,O1 Pb1, Unknown,
+1317-36-8,Blei(II)-oxid,Blei(II)-oxid 325mesh,3201/275,21-523-0213-1,O1 Pb1, Unknown,2 Gebinde vorhanden
+1317-36-8,Blei(II)-oxid,Blei(II)-oxid,3201/275,21-523-0214-8,O1 Pb1, Unknown,
+1317-36-8,Blei(II)-oxid,Blei(II)-oxid,3201/275,21-523-0215-5,O1 Pb1, Unknown,500g/1kg vorhanden
+10099-74-8,Blei(II)-nitrat,Pb(NO3)2 solution,3201/275,20-523-0068-8,N2 O6 Pb1, Unknown,
+110-54-3,n-Hexan,Hexan,3201/275,23-523-0014-2,C6 H14, Unknown,"ungenaue mengenangabe, konzentration"
+109-86-4,2-Methoxyethanol,2-Methoxyethanol,3201/275,23-523-0011-1,C3 H8 O2, Unknown,
+107-21-1,"1,2-Ethandiol",Ethylenglycol,3201/275,21-523-0103-5,C2 H6 O2,Roth 9516.3,zur Synthese
+107-21-1,"1,2-Ethandiol","Ethylenglycol anhydrous, 99.8%",3201/275,21-523-0121-9,C2 H6 O2,Sigma-Aldrich 324558,"Glykol, 1,2-Ethandiol"
+67-63-0,2-Propanol,2-Propanol,3201/275,21-523-0105-9,C3 H8 O1,Roth 9866.5,zur Synthese
+111-46-6,Diethylenglykol,Diethylenglycol monobutylether,3201/275,20-523-0058-9,C4 H10 O3, Unknown,
+67-64-1,Aceton,Aceton,3201/275,21-523-0104-2,C3 H6 O1,Roth 5025.5,zur Synthese
+563-72-4,Calciumoxalat,Calciumoxalat,3201/275,21-523-0046-5,C2 Ca1 O4, Unknown,
+60-00-4,Edetinsäure,Ethylendiamintetraessigsäure,3201/275,21-523-0004-5,C10 H16 N2 O8,Roth 8040.3,EDTA
+123-77-3,Azodicarboxamid,Azodicarboxamid,3201/275,21-523-0137-0,C2 H4 N4 O2,Sigma-Aldrich A96606,
+100-97-0,Hexamethylentetramin,Hexamethylentetramin,3201/275,21-523-0135-6,C6 H12 N4,Sigma Aldrich 398160-250G,"1,3,5,7-Tetraazatricyclo[3.3.1.13,7]decan, Methenamin, Hexamin, Urotropin, Hexamethylentetramin"
+68-12-2,"N,N-Dimethylformamid",,,21-523-0016-8,C3 H7 N1 O1, Own filling,
+68-12-2,"N,N-Dimethylformamid","N,N-Dimethylformamid",3201/275,21-523-0017-5,C3 H7 N1 O1,Alfa Aesar 13547,
+10043-35-3,Borsäure,"Borsäure 99,99%",3201/275,21-523-0022-9,B1 H3 O3, Unknown,
+10043-35-3,Borsäure,"Borsäure 99,99%",3201/275,21-523-0037-3,B1 H3 O3, Unknown,
+10043-35-3,Borsäure,"Borsäure 99,99%",3201/275,21-523-0217-9,B1 H3 O3, Unknown,
+10043-35-3,Borsäure,Boric acid,3201 Labor 115 Glovebox,23-523-0030-2,B1 H3 O3, Unknown,in 163 not 115!
+10141-05-6,Cobalt(II)-nitrat,Cobaltnitrate Solution,3201/275,20-523-0059-6,Co1 N2 O6, Unknown,
+1344-28-1,Aluminiumoxid,Aluminiumoxid,3201/222 Labor,21-523-0109-7,Al2 O3, Unknown,
+1344-28-1,Aluminiumoxid,Aluminiumoxid,3201/275,21-523-0115-8,Al2 O3, Unknown,granules
+1344-28-1,Aluminiumoxid,"Aluminum oxide, g€-phase, 99.97% (metals basis)",3201/275,21-523-0116-5,Al2 O3,Alfa Aesar 39812,Aluminum oxide; Morin Dyed.
+1344-28-1,Aluminiumoxid,a€ und gamme phase in verschiedenen flaschen/ungenaue konzentration&gewicht,3201/275,23-523-0012-8,Al2 O3, Unknown,
+7789-20-0,Deuteriumoxid,Deuterium oxide,3201/275,21-523-0166-0,D2 O1,ALDRICH 151882-100G,
+144-55-8,Natriumhydrogencarbonat,Natriumhydrogencarbonat,3201/275,20-523-0008-4,C1 H1 Na1 O3, Unknown,
+1314-60-9,Antimon(V)-oxid,Antimon(V)-oxid,3201/275,21-523-0218-6,O5 Sb2, Unknown,
+1304-28-5,Bariumoxid,Bariumoxid,3201/275,21-523-0219-3,Ba1 O1, Unknown,
+12230-71-6,Bariumhydroxid Octahydrat,Bariumhydroxid Octahydrat,3201/275,21-523-0220-9,Ba1 H18 O10, Unknown,
+96-48-0,g-Butyrolacton,g€-Butyrolacton,3201/275,21-523-0019-9,C4 H6 O2,Alfa Aesar 16314,
+1305-78-8,Calciumoxid,Calciumoxid,3201/275,21-523-0221-6,Ca1 O1, Unknown,
+1305-78-8,Calciumoxid,Calciumoxid,3201/275,21-523-0222-3,Ca1 O1, Unknown,
+13548-38-4,Chrom(III)nitrat,Chrom(III)nitrat,3201/275,21-523-0223-0,Cr1 N3 O9, Unknown,
+13548-38-4,Chrom(III)nitrat,Chrom(III)nitrat,3201/275,21-523-0224-7,Cr1 N3 O9, Unknown,
+1308-06-1,"Cobalt(II,III)oxid","Cobalt(II,III)oxid",3201/275,21-523-0225-4,Co3 O4, Unknown,in 163
+1308-06-1,"Cobalt(II,III)oxid","Cobalt(II,III)oxid",3201/275,21-523-0226-1,Co3 O4, Unknown,
+1308-06-1,"Cobalt(II,III)oxid","Cobalt(II,III)oxid",3201/275,21-523-0227-8,Co3 O4, Unknown,
+67-68-5,Dimethylsulfoxid,Dimethyl sulfoxid,3201/275,21-523-0018-2,C2 H6 O1 S1,Alfa Aesar A13280,
+1309-37-1,Eisen(III)-oxid,Iron (III) oxide,3201/275,21-523-0030-4,Fe2 O3,Sigma-Aldrich 203513,"99,98% trace metal basis"
+1309-37-1,Eisen(III)-oxid,Iron(III) oxide,3201/264 Labor,24-523-0004-2,Fe2 O3, Unknown,
+7782-42-5,Graphit,Graphit,3201/275,21-523-0169-1,C1,Fluka,"purum, Powder"
+1310-66-3,Lithiumhydroxid-Monohydrat,Lithium hydroxide monohydrate,3201 Labor 115 Glovebox,23-523-0031-9,H3 Li1 O2, Unknown,in 163 not 115!
+16949-15-8,Lithiumtetrahydroborat,Lithium borohydride,3201/275,21-523-0228-5,B1 H4 Li1, Unknown,
+1309-48-4,Magnesiumoxid,Magnesiumoxid,3201/275,20-523-0039-8,Mg1 O1, Unknown,
+1309-48-4,Magnesiumoxid,Magnesiumoxid,3201/275,20-523-0056-5,Mg1 O1, Unknown,
+1344-43-0,Mangan(II)-oxid,Manganese(II)oxide,3201/275,20-523-0042-8,Mn1 O1,ALDRICH,"325 mesh, 97%"
+20603-88-7,Mangan(II)-chlorid-Dihydrat,Manganese(II)chloride tetrahydrate,3201/275,20-523-0033-6,Cl2 H4 Mn1 O2, Unknown,
+10377-66-9,Mangan(II)-nitrat (wasserfrei),Mangan nitrat solution,3201/275,20-523-0064-0,Mn1 N2 O6, Unknown,
+20694-39-7,Mangan(II)nitrat-Tetrahydrat,Mangan(II)Nitrat tetrahydrat,3201/275,20-523-0036-7,H8 Mn1 N2 O10, Unknown,
+20694-39-7,Mangan(II)nitrat-Tetrahydrat,Manganese(II) nitrate tetra-hydrate,3201/275,21-523-0117-2,H8 Mn1 N2 O10,Aldrich 63547,
+9003-11-6,Polyethylenpolypropylenglykol,Pluronic F-127,3201/275,21-523-0181-3,C1 H1 O1 (unspec.),Sigma-Aldrich p2443,Polyethylenpolypropylenglykol
+14807-96-6,Talk,Talkum,3201/275,20-523-0106-7,H2 Mg3 O12 Si4, Unknown,
+87-69-4,Weinsäure,"L-(+)-Tartaric acid 99,5%",3201/275,20-523-0113-5,C4 H6 O6, Unknown,
+1314-23-4,Zirkoniumdioxid,Zirconium (IV) oxide 99% powder,3201/275,20-523-0135-7,O2 Zr1, Unknown,ein Gebinde a 500g/ ein Gebinde a 1000g vorhanden
+1314-23-4,Zirkoniumdioxid,TOSOH-Zirconia TZ-3YS,3201/275,20-523-0153-1,O2 Zr1, Unknown,
+1314-23-4,Zirkoniumdioxid,TOSOH-Zirconia TZ-0,3201/275,20-523-0154-8,O2 Zr1, Unknown,3 Gebinde vorhanden
+1314-23-4,Zirkoniumdioxid,TISIH-Zirconia TZ-8Y,3201/275,20-523-0159-3,O2 Zr1, Unknown,
+1314-23-4,Zirkoniumdioxid,Zirkoniumdioxid 99%,3201/275,21-523-0126-4,O2 Zr1, Unknown,ZrO2
+77-92-9,Zitronensäure,Citric acid 5Mol/l,3201/275,20-523-0063-3,C6 H8 O7, Unknown,2 Gebinde vorhanden
+77-92-9,Zitronensäure,Zitronensäure,3201/275,21-523-0229-2,C6 H8 O7, Unknown,
+5949-29-1,Citronensäure-Monohydrat,Citronensäure-Monohydrat,3201/275,21-523-0230-8,C6 H10 O8,CarlRoth 3958.3,
+6132-04-3,Trinatriumcitrat-Dihydrat,Natriumcitrat dihydrat,3201/275,20-523-0021-3,C6 H9 Na3 O9, Unknown,
+7789-24-4,Lithiumfluorid,Lithium fluoride,3201/275,21-523-0144-8,F1 Li1,Alfa Aesar 013406,
+10102-25-7,Lithiumsulfat-Monohydrat,Lithiumsulfat-Monohydrat,3201/275,21-523-0231-5,H2 Li2 O5 S1, Unknown,
+554-13-2,Lithiumcarbonat,Lithiumcarbonat,3201/275,21-523-0156-1,C1 Li2 O3,Alfa Aesar 013418,
+13453-69-5,Lithiummetaborat,Lithium metaborate,3201 Labor 115 Glovebox,23-523-0029-6,B1 Li1 O2, Unknown,in 163 not 115!
+7790-28-5,Natriummetaperiodat,Natriumperiodat,3201/275,20-523-0025-1,I1 Na1 O4, Unknown,
+10102-17-7,Natriumthiosulfat-Pentahydrat,Natriumthiosulfate pentahydrate,3201/275,20-523-0007-7,H10 Na2 O8 S2, Unknown,
+7757-82-6,Natriumsulfat,Natriumsulfat,3201/276,20-523-0004-6,Na2 O4 S1, Unknown,
+7757-82-6,Natriumsulfat,Natriumsulfat,3201/275,20-523-0005-3,Na2 O4 S1, Unknown,
+7631-99-4,Natriumnitrat,Natriumnitrat,3201/275,20-523-0016-9,N1 Na1 O3, Unknown,
+10028-24-7,Dinatriumhydrogenphosphat-Dihydrat,Natriumhydrogenphosphat,3201/275,20-523-0014-5,H5 Na2 O6 P1, Unknown,
+7785-84-4,Trinatriumtrimetaphosphat,Natriumtrimetaphosphat,3201/275,20-523-0022-0,Na3 O9 P3, Unknown,
+7785-84-4,Trinatriumtrimetaphosphat,Natrium-trimetaphosphat,3201/275,20-523-0031-2,Na3 O9 P3, Unknown,
+7632-05-5,Natriumphosphat (unspezifisch),Natriumpyrophosphat,3201/275,20-523-0009-1,H1 Na1 O1 P1 (unspec.), Unknown,
+7632-05-5,Natriumphosphat (unspezifisch),Natriumhexametaphosphat,3201/275,20-523-0010-7,H1 Na1 O1 P1 (unspec.), Unknown,
+7632-05-5,Natriumphosphat (unspezifisch),Natriumphosphat,3201/275,20-523-0019-0,H1 Na1 O1 P1 (unspec.), Unknown,
+7758-29-4,Pentanatriumtriphosphat,Pentanatriumtriphosphate,3201/275,20-523-0020-6,Na5 O10 P3, Unknown,
+127-09-3,Natriumacetat,Natriumacetate anhydrous,3201/275,20-523-0001-5,C2 H3 Na1 O2, Unknown,
+127-09-3,Natriumacetat,Natriumacetat,3201/275,20-523-0012-1,C2 H3 Na1 O2, Unknown,
+7758-02-3,Kaliumbromid,Kaliumbromid,3201/222 Labor,23-523-0025-8,Br1 K1, Unknown,
+13400-13-0,Caesiumfluorid,Cesium fluoride,3201/275,21-523-0161-5,Cs1 F1,Alfa Aesar 12121,
+7647-17-8,Caesiumchlorid,Caesiumchlorid,3201/275,21-523-0039-7,Cl1 Cs1, Unknown,
+7647-17-8,Caesiumchlorid,Cesium chloride,3201/275,21-523-0167-7,Cl1 Cs1,Merck 1.02039.0050,2 Gebinde vorhanden
+7647-17-8,Caesiumchlorid,Caesiumchlorid,3201/275,21-523-0232-2,Cl1 Cs1, Unknown,
+7787-69-1,Caesiumbromid,"Cesium bromide, ultra dry, 99.9% (metals basis)",3201/275,20-523-0176-0,Br1 Cs1,Alfa Aesar 014289.09,
+7787-69-1,Caesiumbromid,Cesium bromide anhydrous beads,3201/275,21-523-0141-7,Br1 Cs1,ALDRICH 429392-10G,10 mesh
+7787-69-1,Caesiumbromid,Cesium bromide,3201/275,21-523-0142-4,Br1 Cs1,Alfa Aesar 087639,
+7789-17-5,Caesiumiodid,Cesium iodite,3201/275,21-523-0143-1,Cs1 I1,Alfa Aesar 035729,ultra dry
+7789-17-5,Caesiumiodid,Cesium iodide,3201/275,21-523-0147-9,Cs1 I1,Alfa Aesar 010992,
+534-17-8,Caesiumcarbonat,Caesiumcarbonat,3201/275,21-523-0159-2,C1 Cs2 O3,Alfa Aesar 010924,2Gebinde vorhanden
+534-17-8,Caesiumcarbonat,Caesiumcarbonat,3201/275,21-523-0164-6,C1 Cs2 O3,ALDRICH,
+506-87-6,Diammoniumcarbonat,Ammonium Carbonate,3201/275,20-523-0185-2,C1 H8 N2 O3,Alfa Aesar 036229,ACS
+10361-29-2,Ammoniumcarbonat (1:?),Ammoniumcarbonat,3201/275,21-523-0021-2,C1 H1 N1 O1 (unspec.), Unknown,2 Gebinde vorhanden
+10361-29-2,Ammoniumcarbonat (1:?),Ammonium Carbonate,3201/275,21-523-0233-9,C1 H1 N1 O1 (unspec.), Unknown,mehrere Gebinde vorhanden
+1066-33-7,Ammoniumhydrogencarbonat,Ammoniumhydrogencarbonat,3201/275,21-523-0234-6,C1 H5 N1 O3, Unknown,
+13446-18-9,Magnesiumnitrat-Hexahydrat,Magnesiumnitrate hexahydrate,3201/275,20-523-0046-6,H12 Mg1 N2 O12, Unknown,
+13446-18-9,Magnesiumnitrat-Hexahydrat,Magnesiumnitrat hexahydrat,3201/275,20-523-0048-0,H12 Mg1 N2 O12, Unknown,
+13446-18-9,Magnesiumnitrat-Hexahydrat,Magnesiumnitrat hexahydrat,3201/275,20-523-0049-7,H12 Mg1 N2 O12, Unknown,2 Flachen je 500g vorhanden
+543-94-2,Strontiumdiacetat,"Strontium acetate, reagent grade",3201/275,20-523-0093-0,C4 H6 O4 Sr1, Unknown,
+543-94-2,Strontiumdiacetat,Strontium acetate Reagent Grade,3201/275,20-523-0152-4,C4 H6 O4 Sr1, Unknown,
+13494-98-9,Yttrium(III)-nitrat-Hexahydrat,"Yttrium (III) nitrate hexahydrate 99,9% Y(NO3)3 6H2O",3201/275,20-523-0105-0,H12 N3 O15 Y1, Unknown,Zwei Gebinde vorhanden
+13494-98-9,Yttrium(III)-nitrat-Hexahydrat,Yttrium (III) nitrate,3201/275,21-523-0149-3,H12 N3 O15 Y1,Alfa Aesar 012898,
+10025-84-0,Lanthan(III)-chlorid-Heptahydrat,Lanthan(III)-chlorid-Heptahydrat,3201/275,21-523-0235-3,Cl3 H14 La1 O7, Unknown,
+10294-41-4,Cer(III)-nitrat-Hexahydrat,"Cerium(III) nitrate hexahydrate, REacton®, 99.5% (REO)",3201/275,20-523-0182-1,Ce1 H12 N3 O15,Alfa Aesar 011329.36,
+10294-41-4,Cer(III)-nitrat-Hexahydrat,Cerium(III)-nitrat-Hexahydrat,3201/275,21-523-0028-1,Ce1 H12 N3 O15, Unknown,
+10294-41-4,Cer(III)-nitrat-Hexahydrat,Cer(III)-nitrat-Hexahydrat,3201/275,21-523-0236-0,Ce1 H12 N3 O15, Unknown,
+10294-41-4,Cer(III)-nitrat-Hexahydrat,Cer(III)-nitrat-Hexahydrat,3201/275,21-523-0237-7,Ce1 H12 N3 O15, Unknown,
+10139-51-2,Ammoniumcer(IV)-nitrat,Ammoniumcer(IV)-nitrat,3201/275,21-523-0165-3,Ce1 H8 N8 O18,ALDRICH,
+10361-80-5,Praseodym(III)-nitrat,"Praseodym(III)nitrat 99,9%",3201/275,20-523-0101-2,N3 O9 Pr1, Unknown,
+13759-87-0,Samarium(III)-bromid,Samarium(III)-bromid,3201/275,21-523-0162-2,Br3 Sm1,Alfa Aesar 530845,
+560069-78-5,Europium(III)-bromid-Hydrat,Europiumoxibromid,3201/275,21-523-0157-8,Br1 Eu1 H1 O1 (unspec.),Alfa Aesar,
+10168-80-6,Erbium(III)-nitrat,Erbium(III)-nitrat,3201/275,21-523-0238-4,Er1 N3 O9, Unknown,
+10168-80-6,Erbium(III)-nitrat,Erbium(III)-nitrat,3201/275,21-523-0239-1,Er1 N3 O9,Alfa Aesar 011306,"Reacton 99,99%"
+13768-67-7,Ytterbium(III)-nitrat,"Ytterbium(III) nitrate REACTON 99,99%",3201/275,20-523-0163-0,N3 O9 Yb1, Unknown,
+35725-34-9,Ytterbium(III)-nitrat-Pentahydrat,"Ytterbium nitrate pentahydrate 99,9% metal basis",3201/275,20-523-0076-3,H10 N3 O14 Yb1, Unknown,
+1314-61-0,Tantal(V)-oxid,Tantalum (V) oxide 99% Ta2O5,3201/275,20-523-0142-5,O5 Ta2, Unknown,
+1314-35-8,Wolfram(VI)-oxid,"Tungsten (VI) oxide powder 99,998% puratronic",3201/275,20-523-0117-3,O3 W1, Unknown,in 163
+598-62-9,Mangan(II)-carbonat,Mangan(II)carbonat,3201/275,20-523-0052-7,C1 Mn1 O3, Unknown,
+7758-94-3,Eisen(II)-chlorid (wasserfrei),Eisen(II)-chlorid (wasserfrei),3201/275,21-523-0240-7,Cl2 Fe1, Unknown,
+10025-77-1,Eisen(III)-chlorid-Hexahydrat,Eisen(III)-chlorid-Hexahydrat,3201/275,21-523-0241-4,Cl3 Fe1 H12 O6,Sigma-Aldrich 31232,
+7447-39-4,Kupfer(II)-chlorid (wasserfrei),Copper(II)-chlorid,3201 Labor 115 Glovebox,22-523-0013-6,Cl2 Cu1, Unknown,
+10125-13-0,Kupfer(II)-chlorid-Dihydrat,Kupfer(II)-chlorid-Dihydrat,3201/275,21-523-0015-1,Cl2 Cu1 H4 O2,Roth 2623.2,
+25114-58-3,Indium(III)-acetat,Indium(III)-acetate,3201/275,23-523-0036-4,C6 H9 In1 O6, Unknown,x5
+10031-24-0,Zinn(II)-bromid,"Tin(II) bromide, 99.2%",3201 Labor 115 Glovebox,22-523-0005-1,Br2 Sn1,Alfa Aesar 11548,
+10026-06-9,Zinn(IV)-chlorid-Pentahydrat,Tin (IV) chloride pentahydrate,3201/275,20-523-0133-3,Cl4 H10 O5 Sn1, Unknown,
+10026-06-9,Zinn(IV)-chlorid-Pentahydrat,Tin(IV) chloride pentahydrate 98%,3201/275,20-523-0158-6,Cl4 H10 O5 Sn1, Unknown,
+10026-06-9,Zinn(IV)-chlorid-Pentahydrat,Tin(IV) chloride pentahydrate lump 98%,3201/275,20-523-0160-9,Cl4 H10 O5 Sn1, Unknown,
+7787-59-9,Bismutchloridoxid,Boron powder,3201/222 Labor,21-523-0242-1,Bi1 Cl1 O1, Unknown,
+7787-59-9,Bismutchloridoxid,Bismuth(III)chlorideoxide 98%,3201/222 Labor,21-523-0243-8,Bi1 Cl1 O1, Unknown,
+56-40-6,Glycin,Glycin,3201/275,21-523-0010-6,C2 H5 N1 O2, Unknown,
+56-40-6,Glycin,Glycin,3201/275,21-523-0244-5,C2 H5 N1 O2, Unknown,
+56-40-6,Glycin,Glycil - Glycine,3201/275,21-523-0245-2,C2 H5 N1 O2, Unknown,
+52-90-4,L-Cystein,L-Cystein,3201/275,21-523-0246-9,C3 H7 N1 O2 S1, Unknown,
+63-68-3,L-Methionin,L-Methionin,3201/275,21-523-0003-8,C5 H11 N1 O2 S1,SIGMA 64319-25G-F,">=99,5%"
+372-75-8,L-Citrullin,L-Citrullin,3201/275,21-523-0247-6,C6 H13 N3 O3, Unknown,
+71-00-1,L-Histidin,L-Histidin,3201/275,21-523-0248-3,C6 H9 N3 O2, Unknown,
+9005-25-8,Stärke,Starch from corn,3201/275,21-523-0249-0,C6 H10 O5,Sigma-Aldrich S4126,
+9007-49-2,Desoxyribonucleinsäure,Desoxyribonucleinsäure,3201/275,21-523-0250-6,C1 H1 N1 O1 P1 (unspec.), Unknown,
+-,Siedesteine,Siedesteine / Boiling chips granules / Grains de ponce,3201/275,20-523-0095-4,, Unknown,
+312693-72-4,2'-Desoxyguanosin Monohydrat,2'-Desoxyguanosin Monohydrat,3201/275,21-523-0251-3,C10 H15 N5 O5, Unknown,
+77-86-1,Tris(hydroxymethyl)-methylamin,Trizma Base Primary Standard and Buffer,3201/275,20-523-0156-2,C4 H11 N1 O3, Unknown,
+5704-04-1,N-[Tris(hydroxymethyl)-methyl]glycin,Tricine minimum 99% titration,3201/275,20-523-0140-1,C6 H13 N1 O5, Unknown,
+7783-47-3,Zinn(II)-fluorid,Tin(II) fluoride 99%,3201/275,20-523-0121-0,F2 Sn1, Unknown,
+7487-88-9,Magnesiumsulfat (wasserfrei),Magnesiumsulfat anhydrous,3201/275,20-523-0050-3,Mg1 O4 S1, Unknown,
+9003-39-8,Crospovidon,Polyvinylpyrrolidon,3201/275,21-523-0119-6,C6 H9 N1 O1,Sigma-Aldrich PVP40-50G,PVP40
+9003-39-8,Crospovidon,Polyvinylpyrrolidon,3201/275,21-523-0120-2,C6 H9 N1 O1,Sigma-Aldrich PVP10-100G,PVP10
+7791-18-6,Magnesiumchlorid-Hexahydrat,Magnesiumchloride hexahydrate,3201/275,20-523-0045-9,Cl2 H12 Mg1 O6, Unknown,
+56-85-9,L-Glutamin,L-Glutamin,3201/275,21-523-0252-0,C5 H10 N2 O3, Unknown,
+7783-85-9,Ammoniumeisen(II)sulfat-Hexahydrat,Ammoniumeisen(II)sulfat-Hexahydrat,3201/275,21-523-0253-7,Fe1 H20 N2 O14 S2, Unknown,
+57-13-6,Harnstoff,Harnstoff,3201/275,21-523-0254-4,C1 H4 N2 O1, Unknown,
+1401-55-4,Gerbstoffe,Tannic Acid,3201/275,21-523-0183-7,C1 H1 O1 (unspec.),Sigma-Aldrich 403040,
+57-09-0,Cetrimoniumbromid,Hexadecyltrimethylammonium bromide,3201/275,21-523-0180-6,C19 H42 Br1 N1,Sigma-Aldrich h5882,
+66-22-8,Uracil,Uracil minimum 99%,3201/275,20-523-0079-4,C4 H4 N2 O2, Own filling,
+59-92-7,Levodopa,"3,4-Dihydroxy-L-phenylalanine",3201/275,21-523-0255-1,C9 H11 N1 O4, Unknown,
+73-22-3,L-Tryptophan,L-Tryptophan,3201/275,20-523-0167-8,C11 H12 N2 O2, Unknown,
+13463-10-0,Eisen(III)-phosphat-Dihydrat,Iron(III) phosphate Dihydrate,3201/275,23-523-0021-0,Fe1 H4 O6 P1, Unknown,Fe 29%
+65-46-3,Cytidin,Cytidine,3201/275,21-523-0189-9,C9 H13 N3 O5,Fluka,
+9002-89-5,Polyvinylalkohol,Poly(vinyl alcohol),3201/275,23-523-0039-5,C2 H4 O1, Unknown,
+54451-24-0,Lanthanum(III)-carbonat-Hydrat,Lanthanum carbonate,3201/275,21-523-0256-8,C1 H1 La1 O1 (unspec.),ICN Pharmaceuticals,
+57-50-1,Saccharose,Sucrose analytical grade C12H22O11,3201/275,20-523-0109-8,C12 H22 O11, Unknown,
+89-86-1,"2,4-Dihydroxybenzoic acid","2,4-Dihydroxybenzoic acid",3201/275,21-523-0182-0,C7 H6 O4,Sigma-Aldrich D109401,3.
+60-18-4,L-Thyrosine,L-Tyrosine,3201/275,20-523-0137-1,C9 H11 N1 O3, Unknown,
+5743-26-0,Calciumacetat Monohydrat,Calciumacetat Monohydrat,3201/275,21-523-0257-5,C4 H8 Ca1 O5,Sigma-Aldrich 402850,vermutlich mehrere Gebinde vorhanden
+9000-01-5,Gummi arabicum,Gummi arabicum,3201/275,21-523-0258-2,C1 H1 O1 (unspec.), Unknown,
+68915-31-1,Lösliches Natriumpolyphosphat,Natriumpolyphosphat,3201/275,20-523-0003-9,H1 Na1 O1 P1 (unspec.), Unknown,
+7772-99-8,Zinn(II)chlorid,Zinn(II) chlorid,3201/275,20-523-0165-4,Cl2 Sn1, Unknown,
+7772-99-8,Zinn(II)chlorid,Zinn(II) chlorid 98%,3201/275,20-523-0166-1,Cl2 Sn1, Unknown,
+1317-38-0,Kupfer(II)-oxid,Kupfer(II)-oxid,3201/275,21-523-0033-5,Cu1 O1, Unknown,
+1317-38-0,Kupfer(II)-oxid,Kupfer(II)-oxid,3201/275,21-523-0259-9,Cu1 O1, Unknown,Mehrer Gebinde vorhanden
+11098-84-3,Ammoniummolybdat,Ammonium molybdate,3201/275,21-523-0186-8,H1 Mo1 N1 O1 (unspec.),Fischer A/5760/48,
+12054-85-2,Ammoniumheptamolybdat Tetrahydrat,Ammoniumheptamolybdat Tetrahydrat,3201/275,21-523-0260-5,H32 Mo7 N6 O28, Unknown,
+18282-10-5,Zinn(IV)-oxid,Zinn (IV) oxid rein SnO2,3201/275,20-523-0146-3,O2 Sn1, Unknown,
+18282-10-5,Zinn(IV)-oxid,Tin(IV)oxide,3201/275,21-523-0168-4,O2 Sn1,Alfa Aesar 012283,
+10042-76-9,Strontiumnitrat,Sr(NO3)2 Strontium nitrate anhydrous 98%,3201/275,20-523-0147-0,N2 O6 Sr1, Unknown,
+10196-18-6,Zinknitrat Hexahydrat,Zinc nitrate hexahydrate,3201/275,20-523-0134-0,H12 N2 O12 Zn1, Unknown,
+7789-75-5,Calciumfluorid,Calciumfluorid,3201/275,21-523-0261-2,Ca1 F2, Unknown,
+7783-48-4,Strontiumfluorid,Strontium fluoride 99% SrF2,3201/275,20-523-0090-9,F2 Sr1, Unknown,
+1633-05-2,Strontiumcarbonat,Strontium carbonate 98%,3201/275,20-523-0083-1,C1 O3 Sr1, Unknown,2 Gebinde vorhanden
+1633-05-2,Strontiumcarbonat,"Srontium carbonate 99,999%",3201/275,20-523-0084-8,C1 O3 Sr1, Unknown,2 Gebinde vorhanden
+1633-05-2,Strontiumcarbonat,"Strontium carbonate 98% 99,9% (500g)",3201/275,20-523-0151-7,C1 O3 Sr1, Unknown,4 Gebinde vorhanden
+1633-05-2,Strontiumcarbonat,"Strontiumcarbonat >99,9%",3201/275,21-523-0158-5,C1 O3 Sr1,ALDRICH 472018-100G,
+12060-59-2,Strontiumtitanat,Strontiumtitanat,3201/275,20-523-0086-2,O3 Sr1 Ti1, Unknown,
+1317-70-0,Anatas,TiO2 Fumed Metal Oxide,3201/275,21-523-0027-4,O2 Ti1,EVONIK Industries AG,Titanium Dioxide
+21679-31-2,Chrom(III)-acetylacetonat,Chrom(III)-acetylacetonat,3201/275,21-523-0262-9,C15 H21 Cr1 O6, Unknown,
+1312-43-2,IndiDiindiumtrioxid,Indium(III)oxide,3201/275,21-523-0282-7,In2 O3, Unknown,-325 Mesh powder
+1312-43-2,IndiDiindiumtrioxid,Indium (III) oxide,3201/275,21-523-0283-4,In2 O3,Alfa Aesar 12581,325 Mesh Powder
+7785-23-1,Silberbromid,"Silver bromide, 99.5%",3201/275,20-523-0177-7,Ag1 Br1,Alfa Aesar 011425.14,
+7785-23-1,Silberbromid,Silberbromid,3201/275,21-523-0150-9,Ag1 Br1,Alfa Aesar 011425,
+10034-81-8,Magnesiumperchlorat,Magnesiumperchlorate,3201/275,20-523-0040-4,Cl2 Mg1 O8, Unknown,
+81029-06-3,Aluminiumperchlorat Nonahydrat,Aluminiumperchlorat Nonahydrat,3201/275,21-523-0263-6,Al1 Cl3 H18 O21, Unknown,2 Gebinde vorhanden
+10124-37-5,Calciumnitrat,Calciumnitrate solution,3201/275,20-523-0061-9,Ca1 N2 O6, Unknown,
+13746-89-9,Zirkoniumnitrat,Zirconium tetranitrate,3201/275,20-523-0149-4,N4 O12 Zr1, Unknown,
+13477-34-4,Calciumnitrat Tetrahydrat,5 gefundene Ergebnisse für: 237124 Advanced Search | Structure Search Calcium nitrate tetrahydrate,3201/275,20-523-0183-8,Ca1 H8 N2 O10,Sigma Aldrich 237124,
+13477-34-4,Calciumnitrat Tetrahydrat,Calcium nitrate tetrahydrate,3201/275,20-523-0184-5,Ca1 H8 N2 O10, Own filling,sigmaaldrich 237124
+13477-34-4,Calciumnitrat Tetrahydrat,Calciumnitrat Tetrahydrat,3201/275,21-523-0264-3,Ca1 H8 N2 O10,Alfa Aesar 12364,"ACS reagent, ³€99.0%, powder"
+13477-34-4,Calciumnitrat Tetrahydrat,Calciumnitrat Tetrahydrat,3201/275,21-523-0265-0,Ca1 H8 N2 O10, Unknown,
+7784-27-2,Aluminiumnitrat-Nonahydrat,Aluminiumnitrat-Nonahydrat,3201/275,21-523-0266-7,Al1 H18 N3 O18, Unknown,500g/250g Gebinde
+7782-61-8,Eisen(III)-nitrat-Nonahydrat,"Iron(III) nitrate nonahydrate, ACS, 98.0-101.0%",3201/275,20-523-0181-4,Fe1 H18 N3 O18,Alfa Aesar 33315,mehrere Gebinde vorhanden
+7782-61-8,Eisen(III)-nitrat-Nonahydrat,Eisen(III)-nitrat-Nonahydrat,3201/275,21-523-0267-4,Fe1 H18 N3 O18,Alfa Aesar 12915,
+9003-07-0,Polypropylen,Polypropylene,3201/275,23-523-0040-1,C3 H6, Unknown,
+1302-42-7,Natriumaluminat,Natriumaluminat,3201/275,20-523-0028-2,Al1 Na1 O2, Unknown,
+19004-19-4,Kupfer(II)-nitrat-Hemipentahydrat,Kupfer(II)-nitrat-Hemipentahydrat,3201/275,21-523-0268-1,Cu2 H10 N4 O17, Unknown,
+16674-78-5,Magnesiumacetat-Tetrahydrat,Magnesium acetat tetrahydrat,3201/275,20-523-0051-0,C4 H14 Mg1 O8, Unknown,
+13826-66-9,Zirkoniumdinitratoxid,"Zirconium dinitrate oxide Puratronic 99,995%",3201/275,20-523-0114-2,N2 O7 Zr1, Unknown,
+13826-66-9,Zirkoniumdinitratoxid,"Zirconium dinitrate oxide puratronic 99,995%",3201/275,20-523-0145-6,N2 O7 Zr1, Unknown,
+546-68-9,Titantetraisopropanolat,Titan(IV)isopropoxid,3201/275,21-523-0001-4,C12 H28 O4 Ti1,Aldrich 205273,4 * 25 ml
+1185-53-1,"2-Amino-2-(hydroxymethyl)propan-1,3-diolhydrochlorid",Trizma hydrochloride Reagent Grade,3201/275,21-523-0108-0,C4 H12 Cl1 N1 O3, Unknown,
+16923-95-8,Dikaliumhexafluorzirkonat,Kaliumhexafluorozirconate,3201/275,20-523-0038-1,F6 K2 Zr1, Unknown,
+1304-76-3,Dibismuttrioxid,Bismuth(III)Oxid,3201/222 Labor,21-523-0110-3,Bi2 O3, Unknown,
+1312-81-8,Lanthanoxid,Lanthanoxid,3201/275,21-523-0113-4,La2 O3, Unknown,
+1312-81-8,Lanthanoxid,Lanthanoxid,3201/275,21-523-0114-1,La2 O3, Unknown,
+1312-81-8,Lanthanoxid,"Lanthanoxid 99,999%",3201/275,21-523-0125-7,La2 O3, Unknown,La2O3
+1312-81-8,Lanthanoxid,"Lanthanum(III) oxide, REacton|r, 99.99% (REO)",3201/275,21-523-0269-8,La2 O3,Alfa Aesar 011264.30,
+1312-81-8,Lanthanoxid,"Lanthanum(III) oxide, REacton|r, 99.99% (REO)",3201/275,21-523-0270-4,La2 O3,VWR,
+12024-21-4,Digalliumtrioxide,Gallium(III)-oxid,3201/275,23-523-0034-0,Ga2 O3, Unknown,
+12064-62-9,Digadoliniumtrioxid,Gadoliniumoxid,3201/275,21-523-0012-0,Gd2 O3, Unknown,
+12064-62-9,Digadoliniumtrioxid,Gadolinium (III) oxide,3201/275,21-523-0145-5,Gd2 O3,Alfa Aesar 011291,
+12064-62-9,Digadoliniumtrioxid,Digadoliniumtrioxid,3201/275,21-523-0271-1,Gd2 O3, Unknown,
+12064-62-9,Digadoliniumtrioxid,Digadoliniumtrioxid,3201/275,21-523-0272-8,Gd2 O3, Unknown,
+12064-62-9,Digadoliniumtrioxid,Gadolinium (III) oxid,3201/275,21-523-0273-5,Gd2 O3,Strem Chemicals,
+12064-62-9,Digadoliniumtrioxid,Gadolinium (III) oxid,3201/275,21-523-0274-2,Gd2 O3,Strem Chemicals,
+1313-97-9,Neodymoxid,"Neodymium oxide pwdr 99,9% Nd2O3",3201/275,20-523-0096-1,Nd2 O3, Unknown,
+1313-97-9,Neodymoxid,"Neodymium oxide 99,9%",3201/275,20-523-0173-9,Nd2 O3, Unknown,2 Gebinde vorhanden 50g/100g
+1314-36-9,Yttriumoxid,"Yttrium (III) oxide Reaction 99,9% Y2O3",3201/275,20-523-0139-5,O3 Y2, Unknown,
+1314-36-9,Yttriumoxid,Yttriumoxid,3201/275,21-523-0170-7,O3 Y2,ChemPur 4897,
+15432-85-6,Natriumantimonat,Natriumantimonat trihydrat,3201/275,20-523-0015-2,Na1 O3 Sb1, Unknown,
+12070-12-1,Wolframcarbid,Tungsten Carbide,3201/275,20-523-0131-9,C1 W1, Unknown,
+109-72-8,Butyllithium,n-Butyllithium solution,3201/275,23-523-0013-5,C4 H9 Li1, Unknown,"ungenaue mengenangabe, konzentration"
+71-30-7,Cytosin,Cytosin,3201/275,21-523-0275-9,C4 H5 N3 O1, Unknown,
+7681-65-4,Kupferiodid,Copper(I) iodide,3201 Labor 115 Glovebox,23-523-0037-1,Cu1 I1, Unknown,
+17501-44-9,"Tetrakis(pentan-2,4-dionato-O,O')zirconium",Zirconium(IV) acetyl-acetonate 98%,3201/275,20-523-0162-3,C20 H28 O8 Zr1, Unknown,
+10043-11-5,Bornitrid,Bornitrid,3201/275,21-523-0276-6,B1 N1,Hermann C. Starck,
+50-89-5,Thymidin,Thymidine,3201/275,20-523-0169-2,C10 H14 N2 O5, Unknown,
+12055-23-1,Hafniumdioxid,HfO2,3201/275,21-523-0190-5,Hf1 O2,Hermann?,2 Gebinde vorhanden
+7758-88-5,Certrifluorid,Cerium (III) fluoride,3201/275,21-523-0152-3,Ce1 F3,Alfa Aesar 021118,
+7721-01-9,Tantalpentachlorid,Tantalum(V) chloride,3201/275,23-523-0038-8,Cl5 Ta1, Unknown,in Glovebox
+10026-12-7,Niobpentachlorid,"Niobium(V) chloride, 99.9% (metals basis)",3201 Labor 115 Glovebox,22-523-0006-8,Cl5 Nb1,Alfa Aesar 11548,
+12069-94-2,Niobiumcarbid,Niobium carbide 99%,3201/275,20-523-0172-2,C1 Nb1, Unknown,
+24304-00-5,Aluminiumnitrid,Aluminiumnitrid,3201/275,21-523-0277-3,Al1 N1, Unknown,
+24304-00-5,Aluminiumnitrid,Aluminium nitride,3201/275,21-523-0278-0,Al1 N1,ABCR AB01017464,
+25583-20-4,Titannitrid,"titanium nitride 99,5% TiN powder",3201/275,20-523-0127-2,N1 Ti1, Unknown,
+73-24-5,Adenin,Adenin,3201/275,21-523-0279-7,C5 H5 N5,Sigma-Aldrich 73-24-5,minimum 88% mehrere Gebinde Vorhanden 5g/10g
+10035-06-0,Bismut(III)-nitrat-Pentahydrat,Bismut(III)-nitrat-Pentahydrat,3201/275,21-523-0280-3,Bi1 H10 N3 O14, Unknown,
+115-41-3,Brenzkatechinviolett,Brenzkatechinviolett,3201/275,21-523-0281-0,C19 H14 O7 S1, Unknown,
+7789-45-9,Kupfer(II)-bromid,Copper(II)-bromide,3201 Labor 115 Glovebox,22-523-0014-3,Br2 Cu1,ALDRICH 221775-100G,
+13520-92-8,Zirkonylchlorid-Octahydrat,Zirkonyl chloride octahydrate reagent grade 98%,3201/275,20-523-0148-7,Cl2 H16 O9 Zr1, Unknown,
+13520-92-8,Zirkonylchlorid-Octahydrat,Zirconyl chloride octahydrate reagent grade 8%,3201/275,20-523-0150-0,Cl2 H16 O9 Zr1, Unknown,
+5798-79-8,CA,Ca granules,3201/275,21-523-0122-6,C8 H6 Br1 N1,Alfa Aesar,
+11104-61-3,Cobaltoxid,Cobaltoxid,3201/275,21-523-0031-1,Co1 O1 (unspec.), Unknown,
+11129-60-5,Manganoxid,"Mangan(II,III) oxid",3201/275,23-523-0017-3,Mn1 O1 (unspec.), Unknown,
+12047-27-7,Bariumtitanat,Barium titanate,3201/275,23-523-0024-1,Ba1 O3 Ti1, Unknown,
+10026-11-6,Zirkoniumtetrachlorid,"Zirconium chloride 99,5% metal basis",3201/275,20-523-0116-6,Cl4 Zr1, Unknown,
+12060-08-1,scandium (III) oxide,Scandium(III) oxide,3201/276,23-523-0032-6,O3 Sc2, Unknown,powder
+12065-65-5,"titanium (III,IV) oxide","Titanium (V) oxide 99,9%",3201/275,20-523-0103-6,O5 Ti3, Unknown,
+12065-65-5,"titanium (III,IV) oxide",Titanium(IV) oxide 99%,3201/275,20-523-0161-6,O5 Ti3, Unknown,
+13709-49-4,yttrium (III) fluoride,Yttrium (III) fluoride,3201/275,21-523-0193-6,F3 Y1,Alfa Aesar,"99,9%"
+12034-59-2,niobium (IV) oxide,Niob(IV)oxid Nb2O5,3201/275,20-523-0097-8,Nb1 O2,Merck 6871,
+12034-59-2,niobium (IV) oxide,Niob(IV) oxide 200mesh,3201/275,20-523-0122-7,Nb1 O2, Unknown,
+13815-94-6,Ruthenium(III) chloride trihydrate,"Ruthenium (III) chloride hydrate 99,9% RuCl3 xH2O",3201/275,20-523-0126-5,Cl3 H6 O3 Ru1, Unknown,
+12036-10-1,ruthenium (IV) oxide,"Ruthenium(IV) oxide 99,9%",3201/275,20-523-0174-6,O2 Ru1, Unknown,
+12136-26-4,indium (II) oxide,Indium (II) oxide,3201/275,21-523-0035-9,In1 O1, Unknown,
+10294-70-9,tin (II) iodide,tin (II) iodide 99%,3201/222 Labor,21-523-0284-1,I2 Sn1, Unknown,
+12036-32-7,praseodymium (III) oxide,Praseodymium(III)-oxid,3201/275,23-523-0018-0,O3 Pr2, Unknown,
+12060-58-1,samarium (III) oxide,"Samarium(III) oxide 99,99% Sm3O3",3201/275,20-523-0100-5,O3 Sm2, Unknown,
+14077-39-5,europium (II) fluoride,Europium (II) fluoride,3201/275,21-523-0153-0,Eu1 F2,Alfa Aesar,
+14077-39-5,europium (II) fluoride,Europium (II) fluoride,3201/275,21-523-0160-8,Eu1 F2,Alfa Aesar 041737,
+1308-96-9,europium (III) oxide,Europium (III) oxide,3201/275,21-523-0146-2,Eu2 O3,Alfa Aesar 530241,
+1308-96-9,europium (III) oxide,Europium(III)oxide,3201/275,21-523-0285-8,Eu2 O3, Unknown,
+1308-87-8,dysprosium (III) oxide,Dysprosium (III) oxide,3201/275,21-523-0286-5,Dy2 O3, Unknown,2*100g/1*50g drei Gebinde!
+12055-62-8,holmium (III) oxide,Holmium(III)oxide,3201/275,21-523-0287-2,Ho2 O3, Unknown,
+12061-16-4,erbium (III) oxide,Erbium(III)oxide,3201/275,21-523-0288-9,Er2 O3, Unknown,
+12061-16-4,erbium (III) oxide,Erbium(III)oxide,3201/275,21-523-0289-6,Er2 O3, Unknown,
+12061-16-4,erbium (III) oxide,Erbium(III)oxide,3201/275,21-523-0290-2,Er2 O3, Unknown,
+12036-44-1,thulium (III) oxide,"Thulium oxide powder 99,9%",3201/275,20-523-0164-7,O3 Tm2, Own filling,2 Gebinde vorhanden
+13760-80-0,ytterbium (III) fluoride,"Ytterbium(III) fluoride 99,9%",3201/275,20-523-0168-5,F3 Yb1, Unknown,
+12032-20-1,lutetium (III) oxide,Lutetium (III) oxide,3201/275,21-523-0291-9,Lu2 O3, Unknown,
+12032-20-1,lutetium (III) oxide,Lutetium (III) oxide,3201/275,21-523-0292-6,Lu2 O3, Unknown,
+1345-07-9,bismuth (III) sulfide,"Bismuth (III) sulfide 99,9%",3201/222 Labor,21-523-0293-3,Bi2 S3, Unknown,
+10031-53-5,Europium(III) nitrate hexahydrate,Europium(III) nitrate hexahydrate,3201/275,21-523-0154-7,Eu1 H12 N3 O15,Alfa Aesar,
+9002-23-7,Amberlite IR-120,Amberlite IR-120,3201/275,21-523-0294-0,,test,6 Gebinde vorhanden
+65-71-4,Thymin,"Thymine minimum 99,9%",3201/275,20-523-0170-8,C5 H6 N2 O2, Unknown,
+321-30-2,Adenine sulfate,Adenine sulfate,3201/275,21-523-0296-4,C10 H12 N10 O4 S1, Unknown,
+1333-88-6,Cobalt aluminum oxide,Cobalt aluminum oxide,3201/275,21-523-0297-1,Al2 Co1 O4, Unknown,Cobalt aluminate
+2050-25-1,Di(ethylene glycol) benzyl ether,Di(ethylene glycol) benzyl ether,3201/275,21-523-0107-3,C11 H16 O3,sigma-Aldrich 03351,
+2172-12-5,Yttrium(III) isopropoxide,Yttrium isopropoxide,3201/275,20-523-0078-7,C9 H21 O3 Y1, Unknown,
+2922-28-3,Adenin Hydrochlorid,Adenin Hydrochlorid,3201/275,21-523-0298-8,C5 H6 Cl1 N5, Unknown,2 Gebinde vorhanden
+3264-82-2,Bis(acetylacetonato)nickel(II),Nickel(II)-acetylacetonat,3201/275,21-523-0140-0,C10 H14 Ni1 O4,Alfa Aesar 18811,
+3264-82-2,Bis(acetylacetonato)nickel(II),"Nickel(II)2,4-pentanedionate",3201/275,21-523-0191-2,C10 H14 Ni1 O4,Alfa Aesar,95%
+6156-78-1,Manganese(II) acetate tetrahydrate,Manganese(II) acetate tetrahydrate,3201/275,21-523-0118-9,C4 H14 Mn1 O8,Sigma-Aldrich 63537,
+7446-31-3,Zirconium sulfate 4H2O,Zirconium (IV) sulfate tetrahydrate,3201/275,20-523-0141-8,H8 O12 S2 Zr1, Unknown,
+7488-55-3,Schwefelsäure Zinn(II)-Salz,Tin (II) sulfate,3201/275,21-523-0194-3,O4 S1 Sn1,Sigma-Aldrich,>=95%
+9005-82-7,Amylose from potato starch,Amylose Typ III,3201/275,21-523-0299-5,C1 H1 O1 (unspec.), Unknown,
+10045-95-1,Neodymium(III) nitrate,Neodymium nitrate solution,3201/275,20-523-0071-8,N3 Nd1 O9, Unknown,
+10045-95-1,Neodymium(III) nitrate,"Neodym(III) nitrate, Reacton, 99,99%",3201/275,20-523-0118-0,N3 Nd1 O9, Unknown,
+10045-95-1,Neodymium(III) nitrate,"Neodymium(III) nitrate hexahydrate 99,9% metal basis",3201/275,20-523-0119-7,N3 Nd1 O9, Unknown,2 Gebinde vorhanden!
+10099-59-9,Lanthan-(III)-nitrat,Lanthan nitrate solution,3201/275,20-523-0062-6,La1 N3 O9, Unknown,
+10277-43-7,Lanthanum nitrate hexahydrate,"Lanthanum(III) nitrate hexahydrate, 99.9% (REO)",3201/275,20-523-0179-1,H12 La1 N3 O15,Alfa Aesar 012915.36,mehrere Gebinde vorhande
+10277-43-7,Lanthanum nitrate hexahydrate,Lanthan(III)nitrate hexahydrate,3201/275,21-523-0300-8,H12 La1 N3 O15, Unknown,Zwei Gebinde vorhanden
+12008-21-8,Lanthanborid,Lanthanum boride,3201/114,22-523-0004-4,B6 La1,Alfa Aesar 40325,"99,5% REO 325 Mesh Powder, at XRD"
+12008-29-6,Silicon hexaboride,Silicon Boride 99%,3201/275,20-523-0123-4,, Unknown,3 Gebinde vorhanden
+12008-32-1,Yttrium boride,Yttrium hexaboride 100mesh,3201/275,20-523-0080-0,B6 Y1, Unknown,
+12016-69-2,Cobalt chromate,Cobalt chromite,3201/275,21-523-0188-2,Co1 Cr2 O4,Alfa Aesar 40815A1,99%
+12017-01-5,Cobalt titanate,Cobalt titanate,3201/275,21-523-0301-5,Co1 O3 Ti1, Unknown,
+12018-18-7,Nickel chromite,Nickel chromite NiCrO3,3201/275,20-523-0098-5,Cr2 Ni1 O4, Unknown,
+12031-47-9,Lanthanum titanate,Lanthan Titan Oxid,3201/275,21-523-0302-2,La2 O7 Ti2, Unknown,
+12037-01-3,Terbium peroxide,"Terbium(III,IV)oxide reaction 99,99%",3201/275,20-523-0081-7,O7 Tb4, Unknown,
+12041-50-8,Aluminum diboride,Aluminum diboride,3201/222 Labor,21-523-0303-9,Al1 B2, Unknown,
+12045-64-6,Zirkonborid,Zirconium Boride 99%,3201/275,20-523-0124-1,B2 Zr1, Unknown,
+12049-50-2,Calcium titanium oxide,Calcium titanate,3201/275,21-523-0304-6,Ca1 O3 Ti1, Unknown,
+12232-99-4,Sodium bismuthate,Natriumbismutat,3201/275,20-523-0026-8,Bi1 Na1 O3, Unknown,
+12738-76-0,Terbiumoxid,"Terbium oxide 99,9%",3201/275,20-523-0171-5,O1 Tb1 (unspec.), Unknown,
+13759-83-6,Samarium(III) nitrate hexahydrate,"Samarium(III) nitrate hexahydrate 99,9%",3201/275,20-523-0099-2,H12 N3 O15 Sm1, Unknown,
+13770-61-1,Indium nitrate,Indium nitrate solution,3201/275,20-523-0070-1,In1 N3 O9, Unknown,
+14024-18-1,Iron(III) acetylacetonate,Eisen(III)-acetylacetonat,3201/275,21-523-0136-3,C15 H21 Fe1 O6,Sigma-Aldrich F300,
+14024-18-1,Iron(III) acetylacetonate,Eisen(III)acetylacetonate,3201/275,21-523-0306-0,C15 H21 Fe1 O6, Unknown,
+14024-18-1,Iron(III) acetylacetonate,Iron(III) acetylacetonate,3201/275,21-523-0307-7,C15 H21 Fe1 O6,FLUKA 44920-100G,
+14024-48-7,Kobalt(II)-acetylacetonat,"Cobalt(II) 2,4-pentanedionate",3201/275,21-523-0139-4,C10 H14 Co1 O4,Alfa Aesar 12537,
+14024-48-7,Kobalt(II)-acetylacetonat,Cobalt(II)-Acetylacetonate,3201/275,23-523-0002-9,C10 H14 Co1 O4, Unknown,
+14165-55-0,Germanium(IV) ethoxide,Germanium(IV) oxide,3201/275,21-523-0308-4,C8 H20 Ge1 O4, Unknown,
+14405-43-7,Gallium(III) acetylacetonate,Gallium(III) acetylacetonate,3201/275,21-523-0309-1,C15 H21 Ga1 O6, Unknown,
+14475-63-9,Zirconium hydroxide,Zirconium hydroxide 97%,3201/275,20-523-0136-4,H4 O4 Zr1, Unknown,
+14985-18-3,Zirkon(IV)-oxidnitrat-Hydrat,"Zirconium dinitrate oxide hydrate 99,9%",3201/275,20-523-0128-9,H1 N1 O1 Zr1 (unspec.), Unknown,
+14985-18-3,Zirkon(IV)-oxidnitrat-Hydrat,Zirconyl nitrate hydrate techn. oxidizer,3201/275,20-523-0155-5,H1 N1 O1 Zr1 (unspec.), Unknown,
+14985-18-3,Zirkon(IV)-oxidnitrat-Hydrat,Zirconyl nitrate hydrate tech.,3201/275,21-523-0310-7,H1 N1 O1 Zr1 (unspec.),ALDRICH 346462-500G,Oxidizer!
+16919-24-7,Ammonium hexafluorostannate,Ammonium hexafluorostannate,3201/275,21-523-0311-4,F6 H8 N2 Sn1, Unknown,2 Gebinde vorhanden
+16962-40-6,Ammonium hexafluorotitanate(IV),Ammonium hexafluorotitanate(IV),3201/275,21-523-0312-1,F6 H8 N2 Ti1, Unknown,
+19307-28-9,Zinn(IV)-sulfat,Tin (III) sulfate 95%,3201/275,20-523-0115-9,O8 S2 Sn1, Unknown,
+23519-77-9,Zirconium(IV) propoxide,Zirconium(IV)-propoxid -Lösung,3201/275,21-523-0177-6,C12 H28 O4 Zr1,Sigma-Aldrich 333972,70 wt. % in 1-propanol
+25895-60-7,Sodium cyanoborohydride,Natriumcyanoborhydrid,3201/275,20-523-0024-4,C1 H3 B1 N1 Na1, Unknown,
+35054-52-5,Calcium nitrate hydrate,Calcium nitrate hydrate,3201/275,21-523-0313-8,Ca1 H1 N1 O1 (unspec.), Unknown,
+62625-22-3,"Zincon, Mononatriumsalz",Zincon sodium salt,3201/275,20-523-0125-8,C20 H15 N4 Na1 O6 S1, Unknown,
+65104-06-5,Titanium(IV) bis(ammonium lactato)-dihydroxide,Titanium(IV) bis(ammonium lactato) dihydroxide solution,3201/275,20-523-0072-5,C6 H18 N2 O8 Ti1, Unknown,2 Gebinde vorhanden
+65104-06-5,Titanium(IV) bis(ammonium lactato)-dihydroxide,Titanium(IV) bis (ammonium lactato) dihydroxide solution,3201/275,20-523-0120-3,C6 H18 N2 O8 Ti1, Unknown,Gebindegröße unbekannt
+69098-15-3,Nickel(II) chloride hydrate,Nickel(II)Chloride hexahydrat NiCl2 6H2O,3201/275,20-523-0092-3,Cl1 H1 Ni1 O1 (unspec.), Unknown,
+114901-61-0,Bismuth strontium calcium copper oxide,Bismut Strontium Calcium Cuprat,3201/275,21-523-0187-5,,Hoechst,BSCCO 2212
+207398-97-8,Indium(III) nitrate hydrate,Indium(III) nitrate hydrate,3201/275,21-523-0314-5,H1 In1 N1 O1 (unspec.), Unknown,
+207398-97-8,Indium(III) nitrate hydrate,Indium(III) nitrate hydrate,3201/275,21-523-0315-2,H1 In1 N1 O1 (unspec.), Unknown,
+207398-97-8,Indium(III) nitrate hydrate,Indium(III) nitrate hydrate,3201/275,21-523-0316-9,H1 In1 N1 O1 (unspec.), Unknown,
+94219-55-3,Gadolinium(III) nitrate hydrate,Gadolinium(III) nitrate hydrate,3201/275,21-523-0320-6,Gd1 H1 N1 O1 (unspec.), Unknown,
+11145-27-0,"Aluminum Silicon powder, -325 mesh",Aluminum Silicon powder,3201/222 Labor,21-523-0321-3,Al1 Si1 (unspec.), Unknown,
+50-67-9,5-Hydroxytryptamine,Serotonin,3201/275,21-523-0317-6,C10 H12 N2 O1, Unknown,
+12053-26-8,Magnesium chromate,Magnesium chromium oxide,3201/275,20-523-0037-4,Cr2 Mg1 O4, Unknown,
+60676-90-6,Zirconium lactate,Zirconium lactate,3201/275,20-523-0077-0,C12 H20 O12 Zr1, Unknown,
+9003-43-4,Polyvinylpyrrolidine,Polyvinylpyrolidline,3201/275,20-523-0087-9,, Unknown,
+12047-64-2,Barium titanium oxide (Ba2Ti9O20),Barium titanium oxide,3201/275,21-523-0318-3,Ba2 O20 Ti9, Unknown,
+12137-25-6,Rubidium dioxide,Rubidium oxide,3201/275,20-523-0102-9,O2 Rb1, Unknown,
+109489-85-2,Barium copper yttrium oxide Ba2Cu3YO6,Barium Yttrium cuprate,3201/275,21-523-0319-0,Ba2 Cu3 O6 Y1, Unknown,
+-,"Graphene oxide paste, non-exfoliated",Graphene oxide paste,3201/275,21-523-0134-9,C1,Sigma-Aldrich 900704-25G,"paste, non-exfoliated"
+59114-58-8,Tantalum nitride,"Tantalum nitride 99,5% metal basis TaN",3201/275,20-523-0129-6,N1 Ta1 (unspec.), Unknown,
+59114-58-8,Tantalum nitride,"Tantalum nitride 99,5% 325 mesh powder TaN",3201/275,20-523-0143-2,N1 Ta1 (unspec.), Unknown,
